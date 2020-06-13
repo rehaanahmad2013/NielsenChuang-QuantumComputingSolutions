@@ -9,6 +9,7 @@ The Chapter 4 Nielsen and Chuang Solutions include: 4.1, 4.2, 4.3, 4.4, 4.5, 4.6
 
 <a href = "https://github.com/rehaanahmad2013/NielsenChuang-QuantumComputingSolutions/blob/master/Chapter4.pdf">Chapter 4 Solutions</a>
 
+We hope this can complement other solution manuals such as  https://github.com/goropikari/SolutionForQuantumComputationAndQuantumInformation and https://github.com/yquek/NielsenChuangSolutions
 
 Solutions not guaranteed to be correct -- reach out if there are issues.
 
