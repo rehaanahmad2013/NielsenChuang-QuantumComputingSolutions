@@ -14,4 +14,5 @@ We hope this can complement other solution manuals such as  https://github.com/g
 Solutions not guaranteed to be correct -- reach out if there are issues.
 
 -Rehaan Ahmad and Rachit Sharma
+
 Emails: rehaan at stanford dot edu, 
