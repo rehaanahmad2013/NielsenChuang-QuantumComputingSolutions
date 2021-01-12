@@ -13,4 +13,6 @@ We hope this can complement other solution manuals such as  https://github.com/g
 
 Solutions not guaranteed to be correct -- reach out if there are issues.
 
+Our emails: rehaanahmad2013@gmail.com rachitsharma613@gmail.com
+
 -Rehaan Ahmad and Rachit Sharma
