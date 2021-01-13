@@ -15,4 +15,4 @@ Solutions not guaranteed to be correct -- reach out if there are issues.
 
 -Rehaan Ahmad and Rachit Sharma
 
-Emails: rehaan at stanford dot edu, 
+Emails: rehaan at stanford dot edu, ricsharma at ucdavis dot edu
